@@ -1,6 +1,6 @@
 import CustomButton from "../../components/buttons/CustomButton";
 import WelcomeImage from "../../components/welcomeImage";
-import { Text, View } from "react-native";
+import { View } from "react-native";
 import Animated, { FadeIn, FadeOut } from "react-native-reanimated";
 import { SafeAreaView } from "react-native-safe-area-context";
 
